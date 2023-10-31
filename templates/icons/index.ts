@@ -1,0 +1,1 @@
+export { SquareLogo } from './squareLogo';
